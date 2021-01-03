@@ -1,0 +1,4 @@
+      ```{r, echo=T}
+n <- nrow(mtcars)
+```
+Here `r n` cars are compared
